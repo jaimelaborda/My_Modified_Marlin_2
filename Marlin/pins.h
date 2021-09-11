@@ -536,7 +536,8 @@
 //////////////////FIX THIS//////////////
 #ifndef __AVR_ATmega1280__
  #ifndef __AVR_ATmega2560__
- #error Oops!  Make sure you have 'Arduino Mega' selected from the 'Tools -> Boards' menu.
+32
+1./0+6#error Oops!  Make sure you have 'Arduino Mega' selected from the 'Tools -> Boards' menu.
  #endif
 #endif
 

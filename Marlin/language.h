@@ -27,7 +27,7 @@
 
 #ifndef LANGUAGE_INCLUDE
   // pick your language from the list above
-  #define LANGUAGE_INCLUDE GENERATE_LANGUAGE_INCLUDE(en)
+  #define LANGUAGE_INCLUDE GENERATE_LANGUAGE_INCLUDE(es)
 #endif
 
 #define PROTOCOL_VERSION "1.0"
@@ -150,6 +150,12 @@
 #define MSG_BABYSTEPPING_Y                  "Babystepping Y"
 #define MSG_BABYSTEPPING_Z                  "Babystepping Z"
 #define MSG_SERIAL_ERROR_MENU_STRUCTURE     "Error in menu structure"
+
+#define MSG_LIGHT "Light Control"
+#define MSG_LIGHT_OFF "Ligth Off"
+#define MSG_LIGHT_LOW "Ligth Low"
+#define MSG_LIGHT_MED "Ligth Medium"
+#define MSG_LIGHT_FULL "Light Full"
 
 // LCD Menu Messages
 
